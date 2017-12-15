@@ -1,0 +1,9 @@
+com\brainmatics\repo\MemberRepo.class
+com\brainmatics\service\AdminService.class
+com\brainmatics\repo\AdminRepo.class
+com\brainmatics\service\MemberService.class
+com\brainmatics\entity\Admin.class
+com\brainmatics\controller\AdminController.class
+com\brainmatics\entity\Member.class
+com\brainmatics\DemoJpaApplication.class
+com\brainmatics\controller\MemberController.class

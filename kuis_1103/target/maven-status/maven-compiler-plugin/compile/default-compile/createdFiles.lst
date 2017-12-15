@@ -1,0 +1,9 @@
+com\kuis2\controller\MobilController.class
+com\kuis2\DemoJpaApplication.class
+com\kuis2\entity\Aksesoris.class
+com\kuis2\controller\AksesorisController.class
+com\kuis2\service\AksesorisService.class
+com\kuis2\service\MobilService.class
+com\kuis2\entity\Mobil.class
+com\kuis2\repo\MobilRepo.class
+com\kuis2\repo\AksesorisRepo.class
